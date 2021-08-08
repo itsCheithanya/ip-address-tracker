@@ -1,0 +1,19 @@
+header{
+    display:flex;
+    background-color: aqua;
+        justify-content: center;
+}
+.response-container{
+    display: flex;
+}
+.response-item{
+    display: inline-block;
+    margin: auto;
+}
+.attribution{
+    background-color: aquamarine;
+    display:inline-block;
+    position: relative;
+    top:85vh;
+    left:45vw;
+}
